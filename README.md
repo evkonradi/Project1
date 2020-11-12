@@ -26,11 +26,11 @@ https://www.canva.com/design/DAEBoyV300A/P63-j-ZEq6K8Edog0G-Rdw/view?utm_content
 
 # Deployed web site
 
-The link to deployed site is https://pochobs.github.io/project1/.
+The link to deployed site is https://evkonradi.github.io/Rentz/.
 
 # GitHub repository
 
-You can find the repository here: https://github.com/pochobs/project1.
+You can find the repository here: https://github.com/evkonradi/Rentz.
 
 # Page preview
 
